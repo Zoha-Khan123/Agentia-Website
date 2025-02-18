@@ -11,7 +11,6 @@ const Navbar = () => {
     <>
       <div className="shadow p-[1rem] bg-[#000000] flex justify-between items-center fixed top-0 left-0 right-0 z-30">
         <div>
-          {/* <Image src="/agentia-01 (1).png" width={200} height={200} alt="agentia"/> */}
           <h1 className="font-bold text-2xl">Agentia World</h1>
         </div>
         {toggle ? (
